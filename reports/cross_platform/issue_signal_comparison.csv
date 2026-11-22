@@ -1,0 +1,3 @@
+Platform,signal_refund_intent,signal_return_replace,signal_product_defect,signal_misleading_fake,signal_delivery_service
+Amazon_Storefront_Test,1.06,7.45,3.34,1.64,0.73
+YouTube_Social_Comments,0.92,1.58,0.52,2.86,0.19

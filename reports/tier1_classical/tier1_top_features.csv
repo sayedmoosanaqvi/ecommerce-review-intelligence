@@ -1,0 +1,46 @@
+﻿class,rank,feature_ngram,weight
+Mixed_Neutral,1,but,3.9278
+Mixed_Neutral,2,however,3.1699
+Mixed_Neutral,3,not,2.9125
+Mixed_Neutral,4,three stars,2.4991
+Mixed_Neutral,5,ok,2.4513
+Mixed_Neutral,6,okay,2.355
+Mixed_Neutral,7,so so,2.156
+Mixed_Neutral,8,stars,1.962
+Mixed_Neutral,9,otherwise,1.8284
+Mixed_Neutral,10,not the,1.7538
+Mixed_Neutral,11,but the,1.7075
+Mixed_Neutral,12,layer,1.704
+Mixed_Neutral,13,fun but,1.6854
+Mixed_Neutral,14,boxy,1.6271
+Mixed_Neutral,15,know how,1.619
+Negative,1,not,5.2219
+Negative,2,poor,3.4469
+Negative,3,waste,3.3873
+Negative,4,even,3.0743
+Negative,5,disappointed,3.038
+Negative,6,horrible,2.8887
+Negative,7,cheap,2.7619
+Negative,8,terrible,2.7517
+Negative,9,at all,2.7301
+Negative,10,useless,2.6989
+Negative,11,doesn,2.6781
+Negative,12,not good,2.6278
+Negative,13,no,2.6133
+Negative,14,broke,2.6064
+Negative,15,junk,2.549
+Positive,1,great,5.7947
+Positive,2,love,5.5307
+Positive,3,perfect,4.1461
+Positive,4,beautiful,3.5577
+Positive,5,nice,3.2571
+Positive,6,well,3.0223
+Positive,7,comfortable,3.021
+Positive,8,excellent,2.9271
+Positive,9,good,2.9167
+Positive,10,not too,2.9134
+Positive,11,awesome,2.905
+Positive,12,amazing,2.7494
+Positive,13,best,2.7173
+Positive,14,loves,2.6582
+Positive,15,easy,2.6321

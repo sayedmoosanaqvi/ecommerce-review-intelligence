@@ -1,0 +1,12 @@
+venv/
+.env
+__pycache__/
+*.pyc
+data/raw/
+data/processed/
+data/annotated/amazon_200_blind_key.csv
+models/*.pt
+models/*.safetensors
+models/*.joblib
+reports/cross_platform/youtube_28k_predictions.csv
+.ipynb_checkpoints/

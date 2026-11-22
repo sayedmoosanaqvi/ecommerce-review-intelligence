@@ -1,0 +1,3 @@
+Platform,Samples,Tier1_Mean_Conf,Tier2_Mean_Conf,Tier1_Mean_Entropy,Tier2_Mean_Entropy,Tier1_vs_Tier2_Disagreement_%,Tier2_Neg_%,Tier2_Mix_%,Tier2_Pos_%
+Amazon_Storefront_Test,4522,0.693,0.7986,0.6422,0.4406,18.95,39.23,21.89,38.88
+YouTube_Social_Comments,28354,0.563,0.6877,0.8349,0.6432,30.68,54.13,14.97,30.9
